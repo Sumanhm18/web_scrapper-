@@ -97,7 +97,7 @@ public class NewsHeadlineScraper {
 
         return headlines;
     }
-
+//scrapes the header into the headline object
     /**
      * Simple class to hold headline data
      */
