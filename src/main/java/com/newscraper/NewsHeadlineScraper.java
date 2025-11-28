@@ -114,9 +114,7 @@ public class NewsHeadlineScraper {
             return text;
         }
 
-        public String getUrl() {
-            return url;
-        }
+       
 
         @Override
         public String toString() {
